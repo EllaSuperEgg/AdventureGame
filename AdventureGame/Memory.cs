@@ -31,7 +31,7 @@ namespace AdventureGame
 
         public void ReturnNewMemory(int order)
         {
-           center("A new piece of memory comes to you:" + memory[Order] );
+           center("A new piece of memory comes to you:" + memory[order] );
         }
 
         public void ReturnConclusion(int order)
