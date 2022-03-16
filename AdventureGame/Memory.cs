@@ -31,12 +31,12 @@ namespace AdventureGame
 
         public void ReturnNewMemory(int order)
         {
-           center("A new piece of memory comes to you:" + memory[order] );
+           center("A new piece of memory comes to you: " + memory[order] );
         }
 
         public void ReturnConclusion(int order)
         {
-            centerLong(Intro[order]);
+            centerLong(Intro[order]+"\n");
         }
 
         public void ReturnMemory(int order)
@@ -48,7 +48,7 @@ namespace AdventureGame
         {
             for(int i = 0; i < count; i++)
             {
-                centerLong(Conclusion[i]);
+                centerLong(Conclusion[i]+"\n");
             }
         }
 

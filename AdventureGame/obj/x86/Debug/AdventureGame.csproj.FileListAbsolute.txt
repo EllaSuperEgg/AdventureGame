@@ -40,3 +40,11 @@ D:\workspace\programming\AdventureGame\AdventureGame\obj\x86\Debug\AdventureGame
 D:\workspace\programming\AdventureGame\AdventureGame\obj\x86\Debug\AdventureGame.csproj.CoreCompileInputs.cache
 D:\workspace\programming\AdventureGame\AdventureGame\obj\x86\Debug\AdventureGame.exe
 D:\workspace\programming\AdventureGame\AdventureGame\obj\x86\Debug\AdventureGame.pdb
+D:\workspace\programming\AdventureGame_unfinished\AdventureGame\bin\Debug\AdventureGame.exe.config
+D:\workspace\programming\AdventureGame_unfinished\AdventureGame\bin\Debug\AdventureGame.exe
+D:\workspace\programming\AdventureGame_unfinished\AdventureGame\bin\Debug\AdventureGame.pdb
+D:\workspace\programming\AdventureGame_unfinished\AdventureGame\obj\x86\Debug\AdventureGame.csproj.AssemblyReference.cache
+D:\workspace\programming\AdventureGame_unfinished\AdventureGame\obj\x86\Debug\AdventureGame.csproj.SuggestedBindingRedirects.cache
+D:\workspace\programming\AdventureGame_unfinished\AdventureGame\obj\x86\Debug\AdventureGame.csproj.CoreCompileInputs.cache
+D:\workspace\programming\AdventureGame_unfinished\AdventureGame\obj\x86\Debug\AdventureGame.exe
+D:\workspace\programming\AdventureGame_unfinished\AdventureGame\obj\x86\Debug\AdventureGame.pdb
